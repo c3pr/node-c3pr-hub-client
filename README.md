@@ -1,3 +1,1 @@
-# node-c3pr-hub-client
-
-Client for c3pr-hub in node.
+This project has been moved to the https://github.com/c3pr/c3pr monorepo as a subpackage.
